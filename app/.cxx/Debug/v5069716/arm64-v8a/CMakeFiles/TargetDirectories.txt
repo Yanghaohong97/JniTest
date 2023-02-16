@@ -1,0 +1,3 @@
+D:/WorkSpace/AndroidStudio/JniTest2/app/.cxx/Debug/v5069716/arm64-v8a/CMakeFiles/native-lib.dir
+D:/WorkSpace/AndroidStudio/JniTest2/app/.cxx/Debug/v5069716/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/WorkSpace/AndroidStudio/JniTest2/app/.cxx/Debug/v5069716/arm64-v8a/CMakeFiles/rebuild_cache.dir

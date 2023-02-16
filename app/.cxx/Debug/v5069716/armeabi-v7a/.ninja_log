@@ -1,0 +1,5 @@
+# ninja log v5
+0	414	698226172	CMakeFiles/native-lib.dir/src/main/jni/com_hanson_jnitest_MainActivity.cpp.o	fd7c6f87a34f7a91
+415	622	698226173	../../../../build/intermediates/cxx/Debug/v5069716/obj/armeabi-v7a/libnative-lib.so	a8e903a7b96d0ada
+2	250	698232052	../../../../build/intermediates/cxx/Debug/v5069716/obj/armeabi-v7a/libnative-lib.so	2d610f2e19e7d04c
+1	246	698232170	../../../../build/intermediates/cxx/Debug/v5069716/obj/armeabi-v7a/libnative-lib.so	a8e903a7b96d0ada

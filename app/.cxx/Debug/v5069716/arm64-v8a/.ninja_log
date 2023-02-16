@@ -1,0 +1,5 @@
+# ninja log v5
+0	449	698226172	CMakeFiles/native-lib.dir/src/main/jni/com_hanson_jnitest_MainActivity.cpp.o	fbc2c513a7fead97
+450	694	698226172	../../../../build/intermediates/cxx/Debug/v5069716/obj/arm64-v8a/libnative-lib.so	440495167140ebf3
+2	298	698232051	../../../../build/intermediates/cxx/Debug/v5069716/obj/arm64-v8a/libnative-lib.so	cdcb6d98b09da5c4
+2	315	698232170	../../../../build/intermediates/cxx/Debug/v5069716/obj/arm64-v8a/libnative-lib.so	440495167140ebf3

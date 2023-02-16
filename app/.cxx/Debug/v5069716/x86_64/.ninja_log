@@ -1,0 +1,5 @@
+# ninja log v5
+0	374	698226174	CMakeFiles/native-lib.dir/src/main/jni/com_hanson_jnitest_MainActivity.cpp.o	a7a590c3a3d0077
+375	628	698226174	../../../../build/intermediates/cxx/Debug/v5069716/obj/x86_64/libnative-lib.so	74403ecb06ec7576
+2	251	698232053	../../../../build/intermediates/cxx/Debug/v5069716/obj/x86_64/libnative-lib.so	76d668a75c891241
+2	255	698232171	../../../../build/intermediates/cxx/Debug/v5069716/obj/x86_64/libnative-lib.so	74403ecb06ec7576

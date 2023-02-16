@@ -1,0 +1,3 @@
+# ninja log v5
+1	591	698232181	CMakeFiles/native-lib.dir/src/main/jni/com_hanson_jnitest_MainActivity.cpp.o	dcb261aaf7de532c
+593	943	698232182	../../../../build/intermediates/cxx/Debug/v5069716/obj/x86/libnative-lib.so	c5db1952ac93d4b9
